@@ -9,8 +9,8 @@
 Well-qualified Full Stack Developer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering 1 year of related experience. Software development professional with experience in developing and designing web applications using HTML, CSS, JavaScript, Angular, Node.js, and ASP.NET. Adept at developing and deploying complex backend systems, web services and databases.
 
 
-| Rank | Languages     |
-|-----:|---------------|
-|     1|  Angular      |
-|     2|  ASP.NET Core |
-|     3|  SQL          |
+| Rank | Languages And Framework |
+|-----:|-------------------------|
+|     1|  Angular                |
+|     2|  ASP.NET Core           |
+|     3|  SQL                    |
