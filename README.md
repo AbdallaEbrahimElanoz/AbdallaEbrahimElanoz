@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/elanozabdalla" target="blank"><img src="https://img.shields.io/twitter/follow/elanozabdalla?logo=twitter&style=for-the-badge" alt="elanozabdalla" /></a> </p>
 
-- 🔭 I’m currently working on **Bank**
+- 🔭 I’m currently working on ** M.E.T Academy**
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
