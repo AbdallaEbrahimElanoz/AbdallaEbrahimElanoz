@@ -18,6 +18,7 @@
 - 💬 Ask me about **ASP.NET Core And Angular**
 
 - 📫 How to reach me **abdullahelanouz@gmail.com**
+- - 📞 phone and whatsapp *01200240708**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
