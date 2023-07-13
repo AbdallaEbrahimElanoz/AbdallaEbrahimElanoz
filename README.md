@@ -32,6 +32,7 @@
 <a href="https://instagram.com/abdullahelanouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahelanouz" height="30" width="40" /></a>
 <a href="https://medium.com/@abdallaebrahimelanoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdallaebrahimelanoz" height="30" width="40" /></a>
 <a href="/abdullahelanouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="abdullahelanouz" height="30" width="40" /></a>
+<a href="https://dev.to/desoga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdallaebrahim.elanoz" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
