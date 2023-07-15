@@ -9,11 +9,7 @@
 
 - 🔭 I’m currently working on **M.E.T Academy**
 
-- 🌱 I’m currently learning **ASP.NET Core**
-
-- 👯 I’m looking to collaborate on **Bank**
-
-- 🤝 I’m looking for help with **Bank**
+- 🌱 I’m currently learning **ASP.NET Core and Angular**
 
 - 💬 Ask me about **ASP.NET Core And Angular**
 
