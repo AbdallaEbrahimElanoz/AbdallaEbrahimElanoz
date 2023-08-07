@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdullahelanouz&label=Profile%20views&color=0e75b6&style=flat" alt="Abdullahelanouz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/AbdullahElanouz" target="blank"><img src="https://img.shields.io/twitter/follow/elanozabdalla?logo=twitter&style=for-the-badge" alt="AbdullahElanouz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AbdullahElanouz" target="blank"><img src="https://img.shields.io/twitter/follow/AbdullahElanouz?logo=twitter&style=for-the-badge" alt="AbdullahElanouz" /></a> </p>
 
 - 🔭 I’m currently working on **M.E.T Academy**
 
